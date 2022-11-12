@@ -16,4 +16,4 @@
 * Адаптивная вёрстка
 
 
-**https://opserror.github.io**
+**https://opserror.github.io/russian-travel/**
