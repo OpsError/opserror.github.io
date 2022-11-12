@@ -1,0 +1,13 @@
+.cover__heading{
+    position: absolute;
+    z-index: 10;
+    top: calc((100% - 250px)/2);
+    left: calc((100% - 560px)/2);
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+    .cover__heading{
+        top: calc((100% - 134px)/2);
+        left: calc((100% - 288px)/2);
+    }
+}
