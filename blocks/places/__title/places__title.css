@@ -5,8 +5,9 @@
     font-weight: 900;
     line-height: 1.05;
     width: 460px;
-    text-align: left;
+    /* text-align: left; */
     margin: 0;
+    align-self: self-end;
 }
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
